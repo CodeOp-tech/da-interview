@@ -1,82 +1,51 @@
-# Let's Get **Started**
+# Data Analytics
+
+### Instructor Technical interview
 
 ---
 
-### Add Some Slide Candy
+## Structure
 
-![IMAGE](assets/img/presentation.png)
+The interview has two parts:
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+1. Lecture (~15 min)
+- Data analysis (~15 min)
 
-@snap[west span-55]
-## Customize the Layout
-@snapend
-
-@snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
+The whole interview should not exceed 40 min.
 ---
-@title[Add A Little Imagination]
 
-@snap[north-west span-50 text-center]
-#### Engage your Audience
-@snapend
+## Lecture
 
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
-@ulend
-@snapend
+Prepare a 15 min lecture.
+<small>
+- Choose a topic that you like, from the Code Op Data Analysis [curriculum](https://codeop.tech/data-analytics-bootcamp/).
+- Prepare a short lecture with, some slides.
+- Present the lecture targeting the DA students as your audience. Conduct the lecture, as if you were with the sudents.
+- You can choose to explain a concept, or to teach a tool.
+- You can be as "hands-on" as you like, using any external tools, as needed.
+- The lecture should be self-contained (i.e.: it should have a beginning and an end).
 
-@snap[east span-45]
-![IMAGE](assets/img/conference.png)
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
+</small>
+<img  style="background:none; border:none; box-shadow:none;" src="/images/computer_sillouette.gif" width="30%">
 
 ---
 
-@snap[north-east span-100 text-pink text-06]
-Let your code do the talking!
-@snapend
+## Data Analysis
 
-```sql zoom-18
-CREATE TABLE "topic" (
-    "id" serial NOT NULL PRIMARY KEY,
-    "forum_id" integer NOT NULL,
-    "subject" varchar(255) NOT NULL
-);
-ALTER TABLE "topic"
-ADD CONSTRAINT forum_id
-FOREIGN KEY ("forum_id")
-REFERENCES "forum" ("id");
-```
+Present insights about a covid19 Twitter feed.
+<small>
+- Download the raw dataset from [this](./COVID.csv) link.
+- The Twitter dataset was collected through the stream and includes tweet metadata from many languages.
+- You are free to conduct any type of analysis of this dataset. The goal is to produce any useful insights into this topic.
+- Prepare a short presentation, with the results of your analysis. The presentation should target a non technical audience.
+- Be ready to discuss the technical details of how you prepared the data and implemented the analysis, as well as to describe the models you used and your configuration choices.
 
-@snap[south span-100 text-gray text-08]
-@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
-@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
-@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
-@snapend
+</small>
+<img src="/images/twitter.png" height="100px" style="background:none; border:none; box-shadow:none;">
 
+---
 
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+## Good luck!
 
-@snap[east span-50 text-center]
-## Now It's **Your** Turn
-@snapend
-
-@snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+Looking forward to seeing you at the interview
 
