@@ -34,7 +34,7 @@ Prepare a 15 min lecture.
 
 Present insights about a covid19 Twitter feed.
 <small>
-- Download the raw dataset from [this](./COVID.csv) link.
+- Download the raw dataset from [this](https://raw.githubusercontent.com/doublebyte1/da-interview/master/COVID.csv) link.
 - The Twitter dataset was collected through the stream and includes tweet metadata from many languages.
 - You are free to conduct any type of analysis of this dataset. The goal is to produce any useful insights into this topic.
 - Prepare a short presentation, with the results of your analysis. The presentation should target a non technical audience.
