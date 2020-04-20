@@ -26,7 +26,7 @@ Prepare a 15 min lecture.
 - The lecture should be self-contained (i.e.: it should have a beginning and an end).
 
 </small>
-<img  style="background:none; border:none; box-shadow:none;" src="/images/computer_sillouette.gif" width="30%">
+<img  style="background:none; border:none; box-shadow:none;" src="./assets/img/computer_sillouette.gif" width="30%">
 
 ---
 
@@ -41,7 +41,7 @@ Present insights about a covid19 Twitter feed.
 - Be ready to discuss the technical details of how you prepared the data and implemented the analysis, as well as to describe the models you used and your configuration choices.
 
 </small>
-<img src="/images/twitter.png" height="100px" style="background:none; border:none; box-shadow:none;">
+<img src="./assets/img/twitter.png" height="100px" style="background:none; border:none; box-shadow:none;">
 
 ---
 
