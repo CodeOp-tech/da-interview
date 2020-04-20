@@ -26,7 +26,7 @@ Prepare a 15 min lecture.
 - The lecture should be self-contained (i.e.: it should have a beginning and an end).
 
 </small>
-<img  style="background:none; border:none; box-shadow:none;" src="https://raw.githubusercontent.com/doublebyte1/da-interview/master/assets/img/computer_sillouette.gif" width="30%">
+<img  style="background:none; border:none; box-shadow:none;" src="./assets/img/computer_sillouette.gif" width="30%">
 
 ---
 
