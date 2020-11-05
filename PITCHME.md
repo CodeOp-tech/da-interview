@@ -11,6 +11,9 @@ For this exercise, you should provide video recordings of the following activiti
 1. Lecture (~15 min)
 - Data analysis (~15 min)
 
+---
+## Format
+
 You can send us the link to the videos on Youtube, Vimeo, or any other video sharing platform.
 In alternative, you can send us the recordings in mp4 format.
 
